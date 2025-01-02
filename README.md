@@ -1,4 +1,3 @@
-# CodSoft1
 # CodSoft
 # ABOUT ME
 My self Pratisha kathayat,I am currently pursuing my betch degree and on another side I am working as a python Programming Intern in the internship at CodSoft.I am passionate about learning and enhancing my skills in python programming, gaining valuable and useful knowledge and experience through this internship.
